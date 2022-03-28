@@ -1,0 +1,97 @@
+[{
+    "Description": "Agriculture",
+    "Code": "Z01"
+},
+{
+    "Description": "Defense & Military",
+    "Code": "Z02"
+},
+{
+    "Description": "Firefighting & Rescue",
+    "Code": "Z03"
+},
+{
+    "Description": "Ground Support Equipment",
+    "Code": "Z04"
+},
+{
+    "Description": "Heavy and Special Transport",
+    "Code": "Z05"
+},
+{
+    "Description": "Municipality / Government",
+    "Code": "Z06"
+},
+{
+    "Description": "Public Road Transport",
+    "Code": "Z07"
+},
+{
+    "Description": "Rolling Stock Business (Railway)",
+    "Code": "Z08"
+},
+{
+    "Description": "Logistics",
+    "Code": "Z09"
+},
+{
+    "Description": "Food & Refrigerator",
+    "Code": "Z10"
+},
+{
+    "Description": "Medical & Hospital",
+    "Code": "Z11"
+},
+{
+    "Description": "Mining",
+    "Code": "Z12"
+},
+{
+    "Description": "Manufacturing",
+    "Code": "Z13"
+},
+{
+    "Description": "Truck Service",
+    "Code": "Z14"
+},
+{
+    "Description": "Truck Dealer",
+    "Code": "Z15"
+},
+{
+    "Description": "Engineeing&Construction",
+    "Code": "Z16"
+},
+{
+    "Description": "Insurance",
+    "Code": "Z17"
+},
+{
+    "Description": "Advertising",
+    "Code": "Z18"
+},
+{
+    "Description": "Beverage",
+    "Code": "Z19"
+},
+{
+    "Description": "Trading",
+    "Code": "Z20"
+},
+{
+    "Description": "System Integrator",
+    "Code": "Z21"
+},
+{
+    "Description": "Finance and Leasing",
+    "Code": "Z22"
+},
+{
+    "Description": "Hotel - Modern trade",
+    "Code": "Z23"
+},
+{
+    "Description": "Others",
+    "Code": "ZX00"
+}
+]
